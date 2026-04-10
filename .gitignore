@@ -1,0 +1,23 @@
+# Unreal build output
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Visual Studio
+.vs/
+*.suo
+*.sln
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Compiled C++ (if not using Blueprint-only)
+*.o
+*.obj
+
+# OS files
+.DS_Store
+Thumbs.db
